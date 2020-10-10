@@ -30,7 +30,7 @@ const Index  = ({ data }) => {
                 })}
             <div className='py-4'>
                 Projeto criado durante o evento Dev10k do <a href="https://devpleno.com">DevPleno</a><br />
-                Código fonte disponível em: 
+                Código fonte disponível em: <a href='https://github.com/Henrique-Eulalio/SocialLinks'>https://github.com/Henrique-Eulalio/SocialLinks</a>
             </div>
         </div>
     );
